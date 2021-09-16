@@ -3,14 +3,16 @@
   <head>
     <meta charset = "UTF-8" />
     <link rel = "stylesheet" href = "./assets/css/style.css" />
-    <title>Horiseon® Leaders in Social Solution Services</title>
+    <!-- change the title and make it more recognizable -->
+    <title>Horiseon© Leaders in Social Solution Services</title>
   </head>
 
   <body>
-
-    <div class = "header">
+    <!-- use header tag as a container for h1 & the navigator links -->
+    <header class = "header">
       <h1>Hori<span class = "seo">seo</span>n</h1>
-      <div>
+      <!-- use nav tag here -->
+      <nav>
         <ul>
          <li>
            <a href = "#search-engine-optimization">Search Engine Optimization</a>
@@ -22,14 +24,20 @@
             <a href = "#social-media-marketing">Social Media Marketing</a>
          </li>
         </ul>
-      </div>
-    </div>
+      </nav>
+    </header>
     
+    <!-- this is the main image so div is acceptable -->
     <div class="hero"></div>
     
-    <div class = "content">
-      <div class = "search-engine-optimization">
-        <img src = "./assets/images/search-engine-optimization.jpg" alt = "search-engine-optimization" class = "float-left"/>
+    <!-- use main tag here. shortcut to add a comment: command + / -->
+    <main class = "content"> 
+      <!-- use section tag to organize the main contents -->
+      <section id = "search-engine-optimization" class = "search-engine-optimization">
+        <img 
+          src = "./assets/images/search-engine-optimization.jpg" 
+          alt = "SEO on notebook" class = "float-left"
+        />
         <h2>Search Engine Optimization</h2>
         <p>
           The dominance of mobile internet use means that users are searching
@@ -37,7 +45,7 @@
           home. Search Engine Optimization (SEO) allows you to increase your
           visibility and find the right customers for your business.
         </p>
-      </div>
+      </section>
       
       <div id = "online-reputation-management" class = "online-reputation-management">
         <img src = "./assets/images/online-reputation-management.jpg" alt = "online-reputation-management" class = "float-right"/>
