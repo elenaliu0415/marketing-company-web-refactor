@@ -7,6 +7,7 @@
 }
 
 /* element selectors */
+/* Generic styles*/
 body {
   background-color: #d9dcd6;
 }
@@ -122,13 +123,13 @@ h2 {
   margin-left: 25px;
 }
 
-.aside-image {
+.icon {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
 
-.main-image {
+.card-image {
   max-height: 200px;
 }
 
