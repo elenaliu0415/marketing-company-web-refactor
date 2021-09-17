@@ -18,6 +18,8 @@ This is an example of refactoring a client's landing page. The purpose of code r
 
 ## Screenshot for the landing page
 
-![Screeshot for Horiseon Landing Page](./assets/images/Horiseon-screenshot.png)
+### Note: I followed the sytax rule to attach the screenshot image to README file, however I failed to make it show. 
+### Please see the screenshot in the images folder under assets, thank you for your understanding! 
 
 ![Screeshot for Horiseon Landing Page](./assets/images/screeshot.png)
+
