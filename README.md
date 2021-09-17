@@ -17,6 +17,7 @@ This is an example of refactoring a client's landing page. The purpose of code r
 - footer
 
 ## Screenshot for the landing page
-![image alt](./assets/images/Horiseon screenshot.png)
 
+![Screeshot for Horiseon Landing Page](./assets/images/Horiseon-screenshot.png)
 
+![Screeshot for Horiseon Landing Page](./assets/images/screeshot.png)
